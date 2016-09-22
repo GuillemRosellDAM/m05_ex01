@@ -267,7 +267,7 @@ public class Anagrams extends JFrame {
             feedbackLabel.setText("actualización 1!");
             getRootPane().setDefaultButton(nextTrial);
         } else {
-            feedbackLabel.setText("! push!");
+            feedbackLabel.setText("! mala suerte!");
             guessedWord.setText("");
         }
 
